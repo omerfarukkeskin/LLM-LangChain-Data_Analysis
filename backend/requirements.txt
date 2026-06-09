@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+langchain
+langchain-community
+langchain-ollama
+python-multipart
